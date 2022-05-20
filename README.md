@@ -1,2 +1,3 @@
 # ElkStack-Project1
-Project 1 Homework: You will review different concepts and procedures on how git and GitHub work. As well as different cloud and networking procedures. You will see documentations on scripts, diagrams, and other documents.  
+Project 1 Homework: In this project you will review my setup with Azure Cloud Enviroment (networking), deployment of ansible-playbook setup for servers (automation),
+                    and docker deployment for Ansible, Web servers, and ELK stack. 
