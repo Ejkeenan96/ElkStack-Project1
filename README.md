@@ -103,7 +103,7 @@ curl https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-CYBER-PT-02-
 ```
 nano /etc/ansible/hosts
 # add [elk]
-# add IP address 10.1.0.4
+# add Private IP address 10.1.0.4
 ```
 - Run the playbook, and navigate to Kibana (Public_IP:5601) to check that the installation worked as expected.
 
